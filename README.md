@@ -19,4 +19,6 @@ collective user behavior, and how matrix factorization improves the quality of r
 
 #output
 
+![Image](https://github.com/user-attachments/assets/79e865d6-e637-46f2-bcd5-b0393fddb969)
+
 
