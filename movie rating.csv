@@ -1,0 +1,1001 @@
+User,Movie,Rating
+User_38,Loki,4
+User_3,WandaVision,1
+User_58,Guardians of the Galaxy,1
+User_99,Eternals,2
+User_8,Guardians of the Galaxy,1
+User_33,Falcon and Winter Soldier,1
+User_88,Falcon and Winter Soldier,3
+User_94,Falcon and Winter Soldier,1
+User_93,Guardians of the Galaxy,5
+User_2,Shang-Chi,3
+User_53,Guardians of the Galaxy,5
+User_76,Spider-Man,2
+User_89,Eternals,5
+User_87,Ant-Man,3
+User_59,Avengers,3
+User_8,Avengers,1
+User_82,Doctor Strange,2
+User_12,Loki,4
+User_96,Thor,5
+User_59,Captain Marvel,4
+User_50,Captain Marvel,3
+User_17,Captain Marvel,1
+User_65,Loki,2
+User_28,Avengers,5
+User_99,Shang-Chi,1
+User_82,Avengers,3
+User_17,Loki,2
+User_13,Loki,2
+User_33,Shang-Chi,4
+User_18,Avengers,3
+User_39,Avengers,5
+User_4,Thor,4
+User_10,Ant-Man,3
+User_73,Spider-Man,3
+User_55,Loki,4
+User_38,Eternals,2
+User_59,Eternals,3
+User_74,Captain Marvel,5
+User_4,Spider-Man,5
+User_7,Iron Man,5
+User_67,Eternals,1
+User_59,Thor,1
+User_53,Ant-Man,4
+User_64,Loki,4
+User_72,Eternals,5
+User_34,Avengers,4
+User_84,Ant-Man,3
+User_43,Spider-Man,5
+User_46,Hulk,5
+User_25,Iron Man,2
+User_24,Eternals,3
+User_99,Loki,1
+User_10,Avengers,4
+User_95,Iron Man,4
+User_83,Falcon and Winter Soldier,4
+User_5,Doctor Strange,4
+User_63,Thor,1
+User_99,Eternals,1
+User_17,Doctor Strange,1
+User_1,Iron Man,2
+User_76,Ant-Man,2
+User_17,Captain Marvel,2
+User_69,Doctor Strange,4
+User_63,WandaVision,5
+User_63,Guardians of the Galaxy,5
+User_29,WandaVision,4
+User_55,Loki,3
+User_63,Falcon and Winter Soldier,3
+User_20,Thor,1
+User_77,Guardians of the Galaxy,3
+User_75,Falcon and Winter Soldier,3
+User_23,Doctor Strange,1
+User_85,Thor,3
+User_30,Doctor Strange,5
+User_20,Black Panther,1
+User_18,Hulk,2
+User_99,Falcon and Winter Soldier,3
+User_90,Guardians of the Galaxy,1
+User_17,Avengers,5
+User_33,Captain Marvel,1
+User_72,Spider-Man,2
+User_39,Eternals,2
+User_80,Guardians of the Galaxy,2
+User_17,Loki,1
+User_42,Avengers,2
+User_95,Iron Man,4
+User_22,Avengers,3
+User_80,Avengers,4
+User_28,Captain Marvel,5
+User_10,Loki,2
+User_51,WandaVision,4
+User_54,Spider-Man,5
+User_29,WandaVision,5
+User_10,Black Panther,2
+User_50,Black Panther,1
+User_6,Iron Man,4
+User_61,Captain Marvel,1
+User_100,Black Panther,2
+User_31,Hulk,1
+User_68,Black Panther,2
+User_49,Black Panther,1
+User_75,Spider-Man,4
+User_98,Avengers,2
+User_86,Eternals,1
+User_37,Black Panther,1
+User_38,Black Panther,2
+User_4,Ant-Man,5
+User_91,Doctor Strange,1
+User_50,Hulk,1
+User_42,WandaVision,3
+User_19,Iron Man,3
+User_19,Loki,2
+User_98,Doctor Strange,5
+User_50,Shang-Chi,1
+User_96,Ant-Man,5
+User_64,Guardians of the Galaxy,1
+User_85,Shang-Chi,1
+User_46,Black Panther,1
+User_79,Captain Marvel,3
+User_52,Guardians of the Galaxy,1
+User_82,Captain Marvel,5
+User_23,Iron Man,3
+User_5,Guardians of the Galaxy,3
+User_78,Thor,3
+User_15,Shang-Chi,2
+User_92,Spider-Man,4
+User_57,Eternals,1
+User_58,Guardians of the Galaxy,3
+User_8,Falcon and Winter Soldier,3
+User_45,Black Panther,1
+User_82,Guardians of the Galaxy,1
+User_57,Ant-Man,2
+User_44,Avengers,4
+User_33,Thor,5
+User_99,Falcon and Winter Soldier,4
+User_11,Avengers,4
+User_82,WandaVision,2
+User_66,Eternals,2
+User_57,Spider-Man,2
+User_26,Black Panther,5
+User_95,Captain Marvel,4
+User_80,Shang-Chi,3
+User_85,Hulk,2
+User_98,Captain Marvel,5
+User_7,Thor,1
+User_23,Avengers,3
+User_33,Spider-Man,2
+User_6,Ant-Man,1
+User_14,Thor,4
+User_32,Thor,1
+User_1,Guardians of the Galaxy,1
+User_54,Iron Man,3
+User_20,WandaVision,1
+User_55,Thor,1
+User_36,Hulk,2
+User_84,Thor,5
+User_6,Captain Marvel,1
+User_74,Captain Marvel,3
+User_45,WandaVision,5
+User_68,Avengers,2
+User_4,Avengers,1
+User_46,Guardians of the Galaxy,2
+User_22,Captain Marvel,5
+User_59,Captain Marvel,5
+User_18,Falcon and Winter Soldier,2
+User_83,Avengers,4
+User_2,Captain Marvel,1
+User_2,Shang-Chi,3
+User_23,Ant-Man,3
+User_63,Guardians of the Galaxy,5
+User_29,WandaVision,5
+User_62,Hulk,4
+User_23,Avengers,1
+User_5,Falcon and Winter Soldier,3
+User_68,Hulk,2
+User_29,Loki,4
+User_1,Iron Man,2
+User_88,Doctor Strange,2
+User_61,Spider-Man,2
+User_48,Hulk,3
+User_80,Ant-Man,4
+User_82,Doctor Strange,5
+User_33,Avengers,3
+User_31,Doctor Strange,5
+User_63,Falcon and Winter Soldier,5
+User_87,Doctor Strange,3
+User_43,Black Panther,5
+User_99,WandaVision,1
+User_67,Hulk,3
+User_98,Hulk,2
+User_66,Spider-Man,5
+User_4,Hulk,3
+User_71,Avengers,2
+User_82,Shang-Chi,5
+User_45,WandaVision,1
+User_77,Spider-Man,2
+User_64,WandaVision,5
+User_35,WandaVision,5
+User_8,Shang-Chi,4
+User_48,Avengers,5
+User_62,WandaVision,2
+User_4,Captain Marvel,4
+User_13,Eternals,3
+User_47,Thor,5
+User_62,Spider-Man,5
+User_82,Thor,4
+User_27,Captain Marvel,5
+User_50,Falcon and Winter Soldier,1
+User_96,Doctor Strange,2
+User_65,Captain Marvel,3
+User_55,Falcon and Winter Soldier,3
+User_42,WandaVision,4
+User_3,WandaVision,5
+User_72,Hulk,2
+User_42,Captain Marvel,4
+User_19,Hulk,5
+User_85,Eternals,4
+User_77,Loki,4
+User_98,Shang-Chi,3
+User_50,Eternals,3
+User_20,Hulk,5
+User_92,Shang-Chi,2
+User_22,Avengers,4
+User_45,Ant-Man,3
+User_48,Eternals,4
+User_95,Ant-Man,4
+User_53,Eternals,5
+User_23,Thor,5
+User_41,Falcon and Winter Soldier,1
+User_8,Iron Man,1
+User_46,Iron Man,4
+User_59,Hulk,5
+User_67,Iron Man,5
+User_35,Ant-Man,1
+User_21,Thor,4
+User_96,Captain Marvel,2
+User_55,Iron Man,2
+User_40,Avengers,5
+User_79,Iron Man,3
+User_6,Shang-Chi,5
+User_26,Captain Marvel,4
+User_9,Avengers,3
+User_69,Falcon and Winter Soldier,3
+User_83,Guardians of the Galaxy,2
+User_53,Guardians of the Galaxy,5
+User_81,WandaVision,4
+User_50,Ant-Man,1
+User_43,Captain Marvel,1
+User_1,Eternals,3
+User_71,Spider-Man,4
+User_85,Spider-Man,2
+User_35,Thor,4
+User_89,Falcon and Winter Soldier,4
+User_99,WandaVision,4
+User_82,Thor,3
+User_85,Black Panther,2
+User_71,Iron Man,1
+User_26,Avengers,2
+User_57,Captain Marvel,1
+User_46,Doctor Strange,4
+User_81,Loki,1
+User_77,Black Panther,2
+User_51,Falcon and Winter Soldier,1
+User_83,Shang-Chi,5
+User_7,Shang-Chi,4
+User_49,Eternals,1
+User_45,Guardians of the Galaxy,1
+User_83,Ant-Man,1
+User_7,WandaVision,1
+User_92,Black Panther,3
+User_33,Loki,1
+User_60,Falcon and Winter Soldier,2
+User_28,Doctor Strange,2
+User_12,Avengers,4
+User_26,WandaVision,4
+User_87,Eternals,4
+User_43,Iron Man,4
+User_61,Shang-Chi,1
+User_93,Thor,2
+User_9,Doctor Strange,4
+User_41,Guardians of the Galaxy,1
+User_47,Falcon and Winter Soldier,3
+User_14,Shang-Chi,3
+User_19,Loki,2
+User_20,Thor,2
+User_5,Shang-Chi,3
+User_8,Thor,4
+User_13,Shang-Chi,1
+User_28,Ant-Man,4
+User_92,WandaVision,5
+User_99,WandaVision,3
+User_91,Captain Marvel,1
+User_45,Black Panther,3
+User_26,Guardians of the Galaxy,1
+User_41,Loki,5
+User_69,Captain Marvel,4
+User_98,Avengers,2
+User_97,Shang-Chi,5
+User_14,Spider-Man,2
+User_94,Doctor Strange,4
+User_72,Guardians of the Galaxy,5
+User_79,Black Panther,4
+User_38,Loki,4
+User_33,Ant-Man,2
+User_15,Thor,2
+User_37,Thor,5
+User_66,Avengers,3
+User_8,Eternals,2
+User_18,Spider-Man,2
+User_46,Iron Man,1
+User_86,Ant-Man,5
+User_19,Loki,3
+User_82,Loki,3
+User_73,Eternals,5
+User_85,Doctor Strange,4
+User_14,Captain Marvel,1
+User_55,WandaVision,3
+User_97,Guardians of the Galaxy,1
+User_41,Iron Man,3
+User_25,Spider-Man,1
+User_90,Black Panther,1
+User_55,Doctor Strange,2
+User_60,Black Panther,5
+User_3,Black Panther,3
+User_95,Guardians of the Galaxy,4
+User_5,Shang-Chi,3
+User_82,Spider-Man,1
+User_37,Falcon and Winter Soldier,4
+User_63,Avengers,5
+User_20,Guardians of the Galaxy,5
+User_11,Doctor Strange,2
+User_58,Shang-Chi,1
+User_6,Guardians of the Galaxy,1
+User_86,Captain Marvel,2
+User_48,Eternals,5
+User_80,Falcon and Winter Soldier,3
+User_73,Avengers,1
+User_5,Hulk,5
+User_63,Black Panther,4
+User_29,Guardians of the Galaxy,1
+User_37,Hulk,3
+User_89,Iron Man,1
+User_54,Black Panther,3
+User_69,Hulk,5
+User_90,Guardians of the Galaxy,2
+User_89,Thor,1
+User_39,WandaVision,2
+User_91,Avengers,2
+User_79,Iron Man,3
+User_77,Doctor Strange,4
+User_40,Hulk,4
+User_17,Thor,1
+User_28,Falcon and Winter Soldier,4
+User_87,Loki,1
+User_29,Loki,5
+User_5,WandaVision,3
+User_52,Iron Man,3
+User_72,Doctor Strange,5
+User_91,WandaVision,1
+User_88,Loki,2
+User_78,Falcon and Winter Soldier,1
+User_1,Falcon and Winter Soldier,3
+User_5,Avengers,1
+User_38,Guardians of the Galaxy,4
+User_24,WandaVision,3
+User_25,Avengers,4
+User_36,Avengers,5
+User_41,Black Panther,3
+User_25,Captain Marvel,4
+User_11,Loki,4
+User_42,Guardians of the Galaxy,2
+User_49,Doctor Strange,4
+User_29,Thor,3
+User_65,Spider-Man,2
+User_53,Captain Marvel,5
+User_51,Falcon and Winter Soldier,2
+User_22,Captain Marvel,1
+User_40,Hulk,5
+User_33,Thor,2
+User_69,Captain Marvel,5
+User_67,Guardians of the Galaxy,1
+User_12,Spider-Man,1
+User_5,Ant-Man,4
+User_2,Shang-Chi,3
+User_87,Falcon and Winter Soldier,2
+User_99,Spider-Man,4
+User_7,Loki,1
+User_18,Doctor Strange,5
+User_61,Falcon and Winter Soldier,4
+User_56,Falcon and Winter Soldier,2
+User_73,Avengers,2
+User_22,Captain Marvel,1
+User_18,Spider-Man,2
+User_8,Eternals,2
+User_14,Loki,3
+User_10,Thor,3
+User_28,WandaVision,1
+User_66,Avengers,1
+User_81,Guardians of the Galaxy,5
+User_64,WandaVision,5
+User_64,Loki,1
+User_56,Hulk,4
+User_20,Doctor Strange,2
+User_36,Shang-Chi,2
+User_90,Shang-Chi,3
+User_57,Iron Man,3
+User_65,Avengers,1
+User_85,Thor,2
+User_35,Avengers,2
+User_41,Eternals,1
+User_25,Black Panther,3
+User_34,Hulk,5
+User_56,Black Panther,4
+User_60,Eternals,2
+User_26,Captain Marvel,4
+User_49,Thor,3
+User_70,Loki,1
+User_77,Hulk,3
+User_3,Spider-Man,1
+User_97,Captain Marvel,4
+User_56,Loki,2
+User_28,Shang-Chi,5
+User_20,Guardians of the Galaxy,2
+User_36,Eternals,2
+User_63,Avengers,1
+User_12,Iron Man,3
+User_50,Thor,2
+User_65,Spider-Man,2
+User_35,Ant-Man,5
+User_72,Shang-Chi,4
+User_24,Captain Marvel,2
+User_13,Iron Man,3
+User_68,Hulk,2
+User_81,WandaVision,2
+User_10,Captain Marvel,2
+User_62,Guardians of the Galaxy,3
+User_14,Loki,3
+User_51,Falcon and Winter Soldier,2
+User_20,Ant-Man,4
+User_93,Eternals,3
+User_83,Captain Marvel,2
+User_40,Black Panther,3
+User_44,Spider-Man,4
+User_44,Guardians of the Galaxy,3
+User_88,Falcon and Winter Soldier,1
+User_91,Eternals,1
+User_46,Shang-Chi,3
+User_64,Loki,4
+User_24,Loki,3
+User_78,Falcon and Winter Soldier,3
+User_82,Spider-Man,5
+User_23,Shang-Chi,5
+User_21,Thor,1
+User_94,Hulk,3
+User_74,WandaVision,4
+User_9,Guardians of the Galaxy,1
+User_73,Guardians of the Galaxy,5
+User_40,WandaVision,3
+User_72,Eternals,1
+User_55,Ant-Man,5
+User_12,Guardians of the Galaxy,2
+User_29,WandaVision,5
+User_70,Black Panther,2
+User_76,Black Panther,3
+User_45,Eternals,3
+User_51,WandaVision,2
+User_78,Hulk,4
+User_34,Black Panther,5
+User_89,Black Panther,3
+User_4,Avengers,4
+User_34,Loki,3
+User_71,Avengers,3
+User_97,Shang-Chi,2
+User_51,Avengers,3
+User_1,Loki,3
+User_72,Doctor Strange,4
+User_88,Shang-Chi,3
+User_17,Loki,5
+User_86,Guardians of the Galaxy,3
+User_79,Loki,5
+User_17,Avengers,3
+User_62,Loki,3
+User_35,Ant-Man,1
+User_34,Thor,2
+User_80,Loki,5
+User_19,Black Panther,3
+User_34,Eternals,1
+User_64,Avengers,4
+User_12,Eternals,4
+User_43,Iron Man,3
+User_60,Thor,1
+User_58,Ant-Man,3
+User_49,WandaVision,4
+User_51,Eternals,5
+User_47,Shang-Chi,5
+User_18,Guardians of the Galaxy,5
+User_97,Eternals,4
+User_65,Thor,1
+User_52,Eternals,3
+User_82,Black Panther,5
+User_92,Shang-Chi,5
+User_67,Eternals,2
+User_63,Falcon and Winter Soldier,5
+User_63,Eternals,5
+User_73,Falcon and Winter Soldier,4
+User_49,Avengers,5
+User_31,Iron Man,1
+User_97,Avengers,3
+User_49,Hulk,2
+User_20,Iron Man,1
+User_26,Falcon and Winter Soldier,4
+User_99,Captain Marvel,3
+User_67,Iron Man,4
+User_60,Avengers,2
+User_10,WandaVision,4
+User_70,Ant-Man,2
+User_42,Hulk,5
+User_52,Spider-Man,3
+User_94,Spider-Man,1
+User_83,Black Panther,4
+User_86,Eternals,1
+User_51,Falcon and Winter Soldier,5
+User_83,Doctor Strange,3
+User_62,Loki,3
+User_6,Iron Man,5
+User_12,Ant-Man,5
+User_27,Captain Marvel,1
+User_59,Shang-Chi,4
+User_66,Loki,2
+User_67,Hulk,2
+User_18,Captain Marvel,3
+User_49,Spider-Man,2
+User_3,Spider-Man,3
+User_49,Hulk,5
+User_41,Guardians of the Galaxy,4
+User_78,Shang-Chi,3
+User_72,Avengers,2
+User_85,Hulk,3
+User_6,Black Panther,1
+User_32,Falcon and Winter Soldier,5
+User_77,Shang-Chi,3
+User_10,Guardians of the Galaxy,1
+User_10,Black Panther,4
+User_80,Guardians of the Galaxy,2
+User_37,Avengers,4
+User_79,WandaVision,4
+User_1,Ant-Man,4
+User_70,Avengers,5
+User_14,Guardians of the Galaxy,5
+User_57,Falcon and Winter Soldier,5
+User_87,Captain Marvel,5
+User_21,Falcon and Winter Soldier,3
+User_72,Doctor Strange,1
+User_75,Eternals,3
+User_16,Loki,5
+User_72,Ant-Man,2
+User_38,Avengers,1
+User_21,Spider-Man,2
+User_55,WandaVision,1
+User_66,Spider-Man,4
+User_34,Spider-Man,2
+User_55,Black Panther,1
+User_78,Black Panther,5
+User_62,Captain Marvel,2
+User_45,Spider-Man,1
+User_60,Thor,3
+User_41,Doctor Strange,2
+User_46,Loki,3
+User_71,Black Panther,5
+User_17,WandaVision,4
+User_54,Ant-Man,4
+User_6,Loki,4
+User_44,Iron Man,1
+User_5,Spider-Man,4
+User_65,Captain Marvel,2
+User_66,WandaVision,4
+User_32,Loki,3
+User_56,Falcon and Winter Soldier,5
+User_41,Ant-Man,3
+User_86,Loki,2
+User_66,Ant-Man,3
+User_52,Doctor Strange,1
+User_28,Black Panther,2
+User_96,Captain Marvel,4
+User_6,Thor,2
+User_3,Spider-Man,3
+User_76,Iron Man,3
+User_73,Captain Marvel,2
+User_31,Avengers,2
+User_92,Iron Man,3
+User_15,Captain Marvel,3
+User_26,Falcon and Winter Soldier,3
+User_59,Doctor Strange,4
+User_28,Black Panther,4
+User_74,Captain Marvel,5
+User_57,Captain Marvel,5
+User_56,Shang-Chi,1
+User_84,Eternals,3
+User_54,Iron Man,1
+User_70,Loki,1
+User_2,Loki,3
+User_43,Avengers,4
+User_11,Iron Man,3
+User_67,Shang-Chi,2
+User_71,Shang-Chi,2
+User_76,Avengers,4
+User_8,Iron Man,4
+User_11,Avengers,3
+User_87,Hulk,1
+User_100,Shang-Chi,2
+User_46,Avengers,2
+User_52,Ant-Man,4
+User_78,Spider-Man,4
+User_44,Spider-Man,3
+User_89,Iron Man,3
+User_19,Guardians of the Galaxy,4
+User_77,Hulk,3
+User_46,Loki,4
+User_2,WandaVision,3
+User_20,Guardians of the Galaxy,1
+User_37,Hulk,2
+User_81,Loki,1
+User_25,Iron Man,5
+User_81,Ant-Man,4
+User_22,Eternals,3
+User_49,Iron Man,3
+User_56,Guardians of the Galaxy,3
+User_65,Loki,5
+User_58,Captain Marvel,3
+User_72,Ant-Man,2
+User_51,Loki,4
+User_80,Spider-Man,3
+User_32,Spider-Man,1
+User_22,Eternals,1
+User_78,Spider-Man,2
+User_58,Shang-Chi,1
+User_51,Spider-Man,2
+User_93,WandaVision,5
+User_80,Eternals,1
+User_79,Iron Man,1
+User_95,Black Panther,2
+User_26,Loki,1
+User_74,WandaVision,2
+User_50,Avengers,5
+User_1,Black Panther,2
+User_77,Iron Man,3
+User_36,Iron Man,5
+User_31,Doctor Strange,2
+User_17,Spider-Man,5
+User_37,Avengers,1
+User_58,Thor,2
+User_3,WandaVision,2
+User_54,Ant-Man,1
+User_13,Black Panther,3
+User_67,Captain Marvel,4
+User_92,Loki,1
+User_21,Shang-Chi,1
+User_2,Spider-Man,3
+User_54,Black Panther,3
+User_28,Falcon and Winter Soldier,1
+User_26,Black Panther,2
+User_88,WandaVision,1
+User_11,Eternals,2
+User_27,Eternals,1
+User_90,Iron Man,3
+User_21,Ant-Man,2
+User_9,Thor,1
+User_44,Spider-Man,3
+User_51,Eternals,2
+User_59,Guardians of the Galaxy,5
+User_5,Guardians of the Galaxy,3
+User_59,Hulk,1
+User_90,Guardians of the Galaxy,2
+User_6,Loki,1
+User_58,Guardians of the Galaxy,3
+User_60,Thor,5
+User_62,Eternals,1
+User_28,Iron Man,2
+User_44,Hulk,4
+User_88,Iron Man,3
+User_77,WandaVision,4
+User_35,Shang-Chi,2
+User_77,Guardians of the Galaxy,4
+User_99,Doctor Strange,2
+User_16,Spider-Man,5
+User_91,Doctor Strange,3
+User_69,Loki,1
+User_20,Doctor Strange,4
+User_91,WandaVision,4
+User_74,Thor,1
+User_67,Eternals,1
+User_57,Hulk,2
+User_61,Guardians of the Galaxy,4
+User_29,Shang-Chi,3
+User_45,Eternals,5
+User_10,Captain Marvel,5
+User_93,Shang-Chi,1
+User_74,Falcon and Winter Soldier,4
+User_53,Falcon and Winter Soldier,1
+User_79,Guardians of the Galaxy,3
+User_21,Black Panther,5
+User_100,Falcon and Winter Soldier,2
+User_78,Ant-Man,3
+User_29,Iron Man,4
+User_70,Eternals,5
+User_11,Hulk,4
+User_11,Captain Marvel,1
+User_3,Loki,3
+User_12,Loki,4
+User_72,Avengers,5
+User_76,Hulk,2
+User_76,Iron Man,4
+User_2,Iron Man,1
+User_61,WandaVision,5
+User_42,Black Panther,3
+User_40,Loki,4
+User_70,Ant-Man,5
+User_49,Shang-Chi,5
+User_91,Avengers,1
+User_18,Guardians of the Galaxy,1
+User_51,Guardians of the Galaxy,2
+User_56,Black Panther,3
+User_83,Captain Marvel,4
+User_81,WandaVision,5
+User_56,Hulk,4
+User_3,Captain Marvel,1
+User_42,Iron Man,4
+User_6,Falcon and Winter Soldier,1
+User_47,Captain Marvel,2
+User_37,Shang-Chi,2
+User_72,Doctor Strange,5
+User_21,Spider-Man,2
+User_40,Loki,4
+User_36,Captain Marvel,2
+User_30,Black Panther,1
+User_22,Iron Man,4
+User_31,Doctor Strange,1
+User_30,Eternals,5
+User_42,Black Panther,4
+User_25,Guardians of the Galaxy,5
+User_69,Shang-Chi,2
+User_69,Doctor Strange,1
+User_31,Hulk,2
+User_35,WandaVision,3
+User_4,Guardians of the Galaxy,2
+User_28,Black Panther,3
+User_98,Falcon and Winter Soldier,1
+User_1,Shang-Chi,2
+User_81,Iron Man,2
+User_74,Captain Marvel,1
+User_85,Captain Marvel,4
+User_40,Doctor Strange,3
+User_8,Eternals,5
+User_47,Eternals,1
+User_53,Iron Man,5
+User_54,Doctor Strange,2
+User_7,Falcon and Winter Soldier,3
+User_80,Spider-Man,5
+User_88,Spider-Man,3
+User_25,Hulk,5
+User_29,Shang-Chi,1
+User_13,Iron Man,2
+User_74,Doctor Strange,1
+User_45,Guardians of the Galaxy,5
+User_41,Shang-Chi,3
+User_56,Ant-Man,2
+User_85,Ant-Man,3
+User_52,Iron Man,2
+User_69,Hulk,3
+User_26,WandaVision,4
+User_3,Spider-Man,3
+User_26,Captain Marvel,3
+User_50,Thor,1
+User_96,Iron Man,3
+User_6,Ant-Man,5
+User_31,Eternals,5
+User_39,Guardians of the Galaxy,2
+User_12,Captain Marvel,5
+User_75,Captain Marvel,5
+User_86,Falcon and Winter Soldier,2
+User_33,Hulk,5
+User_100,Hulk,4
+User_53,Iron Man,5
+User_43,Hulk,5
+User_35,Avengers,4
+User_6,Shang-Chi,3
+User_97,Thor,2
+User_59,Avengers,4
+User_3,WandaVision,5
+User_1,Spider-Man,5
+User_52,Avengers,4
+User_16,Eternals,2
+User_34,Avengers,5
+User_31,Eternals,3
+User_28,Spider-Man,1
+User_74,Captain Marvel,4
+User_97,Thor,3
+User_42,Guardians of the Galaxy,4
+User_64,Spider-Man,1
+User_76,Hulk,3
+User_88,Ant-Man,5
+User_97,Iron Man,1
+User_51,Ant-Man,1
+User_25,WandaVision,4
+User_100,Loki,1
+User_63,Spider-Man,4
+User_71,Ant-Man,5
+User_98,Doctor Strange,2
+User_72,Avengers,4
+User_33,Shang-Chi,2
+User_43,Hulk,3
+User_53,Thor,2
+User_85,Eternals,5
+User_42,Eternals,1
+User_89,Black Panther,5
+User_50,Hulk,2
+User_94,Doctor Strange,5
+User_26,Loki,2
+User_8,Black Panther,2
+User_86,Thor,1
+User_49,Iron Man,1
+User_15,Captain Marvel,4
+User_74,Hulk,1
+User_78,Iron Man,3
+User_43,Thor,5
+User_81,Guardians of the Galaxy,2
+User_81,Thor,4
+User_95,Iron Man,1
+User_48,Ant-Man,2
+User_57,Hulk,1
+User_56,Doctor Strange,2
+User_50,Shang-Chi,3
+User_61,Black Panther,2
+User_73,WandaVision,2
+User_12,Avengers,5
+User_69,Black Panther,5
+User_61,Hulk,2
+User_98,Shang-Chi,4
+User_81,WandaVision,2
+User_15,Loki,2
+User_46,Thor,1
+User_92,Ant-Man,2
+User_13,Avengers,5
+User_24,Captain Marvel,1
+User_88,Avengers,5
+User_67,Ant-Man,1
+User_12,Falcon and Winter Soldier,3
+User_32,Avengers,3
+User_22,Captain Marvel,3
+User_70,Hulk,1
+User_58,Hulk,4
+User_60,Iron Man,1
+User_98,Ant-Man,1
+User_9,WandaVision,3
+User_76,Captain Marvel,2
+User_2,Captain Marvel,2
+User_26,Captain Marvel,1
+User_16,Captain Marvel,3
+User_59,Falcon and Winter Soldier,1
+User_52,Ant-Man,2
+User_6,Iron Man,3
+User_3,Captain Marvel,2
+User_12,Guardians of the Galaxy,1
+User_71,Spider-Man,3
+User_35,Captain Marvel,3
+User_49,Shang-Chi,2
+User_61,Doctor Strange,3
+User_32,WandaVision,5
+User_19,Iron Man,1
+User_53,Thor,5
+User_27,Doctor Strange,5
+User_40,Guardians of the Galaxy,4
+User_66,Shang-Chi,2
+User_61,Hulk,1
+User_19,Iron Man,4
+User_62,Thor,1
+User_39,Falcon and Winter Soldier,1
+User_18,Ant-Man,1
+User_49,Guardians of the Galaxy,4
+User_47,WandaVision,3
+User_3,Spider-Man,3
+User_36,Falcon and Winter Soldier,4
+User_59,Falcon and Winter Soldier,3
+User_38,Captain Marvel,2
+User_73,Hulk,5
+User_71,Iron Man,3
+User_5,Thor,5
+User_76,Captain Marvel,2
+User_76,WandaVision,5
+User_7,Guardians of the Galaxy,5
+User_94,Hulk,1
+User_19,Ant-Man,4
+User_20,WandaVision,4
+User_86,Avengers,1
+User_2,Ant-Man,4
+User_92,Loki,4
+User_20,Captain Marvel,4
+User_56,Doctor Strange,2
+User_21,Spider-Man,1
+User_3,Eternals,2
+User_21,Eternals,3
+User_82,Loki,4
+User_75,Black Panther,5
+User_43,Spider-Man,4
+User_33,Eternals,1
+User_84,Captain Marvel,2
+User_70,Black Panther,5
+User_89,Guardians of the Galaxy,1
+User_1,Avengers,2
+User_36,Shang-Chi,1
+User_84,Shang-Chi,1
+User_72,Doctor Strange,4
+User_68,Spider-Man,4
+User_63,Hulk,3
+User_84,Loki,2
+User_73,Captain Marvel,3
+User_16,WandaVision,5
+User_8,Shang-Chi,2
+User_24,Loki,3
+User_23,Iron Man,5
+User_20,Captain Marvel,2
+User_47,Loki,2
+User_22,Ant-Man,5
+User_59,Eternals,4
+User_12,WandaVision,1
+User_88,Guardians of the Galaxy,1
+User_61,Ant-Man,4
+User_42,Loki,2
+User_73,Loki,4
+User_27,Doctor Strange,4
+User_99,Shang-Chi,5
+User_59,Ant-Man,3
+User_51,WandaVision,2
+User_1,WandaVision,2
+User_100,Loki,2
+User_20,Captain Marvel,4
+User_98,Black Panther,5
+User_35,Loki,4
+User_65,Eternals,3
+User_14,Loki,4
+User_74,Captain Marvel,3
+User_63,Doctor Strange,4
+User_61,Doctor Strange,1
+User_21,WandaVision,2
+User_31,Ant-Man,4
+User_60,Ant-Man,5
+User_15,Shang-Chi,3
+User_31,Thor,1
+User_29,WandaVision,4
+User_61,Loki,3
+User_83,Iron Man,1
+User_28,Shang-Chi,3
+User_38,Avengers,1
+User_45,Avengers,3
+User_76,Loki,1
+User_20,Guardians of the Galaxy,2
+User_50,Ant-Man,3
+User_4,Falcon and Winter Soldier,4
+User_45,Hulk,3
+User_21,Ant-Man,2
+User_51,Loki,2
+User_11,Thor,3
+User_81,WandaVision,1
+User_82,Hulk,5
+User_36,Ant-Man,5
+User_36,Falcon and Winter Soldier,4
+User_15,Falcon and Winter Soldier,5
+User_94,Eternals,2
+User_85,Hulk,4
+User_58,Loki,5
+User_41,Hulk,1
+User_68,Falcon and Winter Soldier,2
+User_69,Avengers,3
+User_99,Iron Man,5
+User_82,Black Panther,3
+User_79,Captain Marvel,2
+User_54,Black Panther,2
+User_28,Doctor Strange,5
+User_72,Avengers,3
+User_27,Hulk,1
+User_34,Hulk,5
+User_94,Falcon and Winter Soldier,1
+User_74,WandaVision,2
+User_38,Spider-Man,5
+User_89,Iron Man,4
+User_43,Shang-Chi,3
+User_24,Doctor Strange,4
+User_95,Loki,4
+User_2,Eternals,1
+User_59,Captain Marvel,5
+User_79,Captain Marvel,2
+User_20,Spider-Man,2
+User_100,Hulk,3
+User_98,Avengers,4
+User_26,Hulk,1
+User_8,Captain Marvel,3
+User_45,Thor,3
+User_36,Black Panther,3
+User_74,Ant-Man,4
+User_23,Avengers,3
